@@ -1,0 +1,71 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Woodblade: {
+		DisplayName: Wood Blade
+		Tooltip:
+			'''
+			A wooden practice blade with 
+			a carbon-reinforced core.
+
+			WeaponType: Pencil
+			'''
+	}
+
+	Maneax: {
+		DisplayName: Mane Ax
+		Tooltip:
+			'''
+			Beginner's ax forged from the 
+			mane of a dragon whelp.
+
+			WeaponType: Brush
+			'''
+	}
+
+	Redscarf: {
+		DisplayName: Red Scarf
+		Tooltip:
+			'''
+			A basic scarf made of lightly 
+			magical fiber.
+
+			WeaponType: Yarn
+			'''
+	}
+
+	Krisplate: {
+		DisplayName: Dark Cuirass
+		Tooltip:
+			'''
+			Chestplate of The first hero. 
+			The cage, with human soul and parts...
+
+			ArmorType: Sweater
+			'''
+	}
+
+	Ralseirobe: {
+		DisplayName: Prophet's Cloak
+		Tooltip:
+			'''
+			The snug robes of The third hero. 
+			The prince, alone in deepest dark.
+
+			ArmorType: Lint
+			'''
+	}
+
+	Susiejacket: {
+		DisplayName: Susiejacket
+		Tooltip:
+			'''
+			Coat of The second hero. 
+			The girl, with hope crossed on her heart...
+
+			ArmorType: Coat
+			'''
+	}
+}
+
+Projectiles.Scarfprojectile.DisplayName: Scarfprojectile
